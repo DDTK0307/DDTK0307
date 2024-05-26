@@ -1,16 +1,15 @@
-## Hi there 👋
+## Ola sejam bem vindos ao meu perfil👋
 
-<!--
-**DDTK0307/DDTK0307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Thiago rodrigues🥇
 
-Here are some ideas to get you started:
+-Estou estudando na [Alura](https://www.Alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou aprendendo a liguangem javacript
+
+-Utilizo esse espaço para minha organizaçao e compartilha meus projetos
+
+### Voce entra em contato comigo 📧
+
+![](https://media1.tenor.com/m/lcrB50xrOdkAAAAd/sukuna-ryomen-sukuna.gif)
+
+Thiago03rodrigues07dossantos@gamail.com
